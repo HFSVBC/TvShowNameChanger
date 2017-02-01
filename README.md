@@ -17,7 +17,7 @@ Don't forget to give it execution privileges.
 ./NameChanger.py /Users/hugocurado/Desktop/G2 2 1
 ```
 ###Authors
-Hugo Filiepe Curado, [https://www.hugocurado.info](https://www.hugocurado.info)
+Hugo Filipe Curado, [https://www.hugocurado.info](https://www.hugocurado.info)
 
 ###License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
